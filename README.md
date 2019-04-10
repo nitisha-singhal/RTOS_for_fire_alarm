@@ -10,6 +10,8 @@ A system is said to be Real Time if it is required to complete its work & delive
 
 # Hardware Setup
 
+![hardware](setup1.jpeg)
+
 # Steps to Run:
 
 1. Setup the hardware by connecting arduino uno with the flame sensor
