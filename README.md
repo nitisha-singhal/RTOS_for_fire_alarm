@@ -16,3 +16,6 @@ A system is said to be Real Time if it is required to complete its work & delive
 2. Install Arduino Ide https://www.arduino.cc
 3. Open the sketch fire.ino
 4. Upload the code and run
+
+# Output
+![output image](output.png)
